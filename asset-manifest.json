@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FSAD-S201/static/css/main.f855e6bc.css",
-    "main.js": "/FSAD-S201/static/js/main.310106c3.js",
+    "main.css": "/FSAD-S201/static/css/main.f611e73e.css",
+    "main.js": "/FSAD-S201/static/js/main.b8e1baa1.js",
     "static/js/453.96453769.chunk.js": "/FSAD-S201/static/js/453.96453769.chunk.js",
-    "static/media/logo.svg": "/FSAD-S201/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.png": "/FSAD-S201/static/media/logo.9fa9dfec63bfd586295b.png",
     "index.html": "/FSAD-S201/index.html",
-    "main.f855e6bc.css.map": "/FSAD-S201/static/css/main.f855e6bc.css.map",
-    "main.310106c3.js.map": "/FSAD-S201/static/js/main.310106c3.js.map",
+    "main.f611e73e.css.map": "/FSAD-S201/static/css/main.f611e73e.css.map",
+    "main.b8e1baa1.js.map": "/FSAD-S201/static/js/main.b8e1baa1.js.map",
     "453.96453769.chunk.js.map": "/FSAD-S201/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.310106c3.js"
+    "static/css/main.f611e73e.css",
+    "static/js/main.b8e1baa1.js"
   ]
 }
